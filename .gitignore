@@ -1,0 +1,7 @@
+cmake-build-debug
+cmake-build-release
+
+windows-installer/Output/*
+windows-installer/YouTube Downloader/*
+windows-installer/ffmpeg/*
+windows-installer/yt-dlp/*
